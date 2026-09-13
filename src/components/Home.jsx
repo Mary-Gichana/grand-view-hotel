@@ -8,17 +8,17 @@ import { Link } from "react-router-dom";
 const images = [
   {
     id: 1,
-    src: "/Images/home2.jpeg",
+    src: "/Images/slide4.jpeg",
     text: "Experience Comfort and Luxury at Grand View Hotel",
   },
   {
     id: 2,
-    src: "/Images/home3.jpeg",
+    src: "/Images/slide6.jpeg",
     text: "Relax, Dine, and Enjoy Exceptional Hospitality",
   },
   {
     id: 3,
-    src: "/Images/home4.jpeg",
+    src: "/Images/slide5.jpeg",
     text: "Your Perfect Stay Begins at Grand View Hotel",
   },
 ];
